@@ -4,7 +4,7 @@
 
 You can try the live application here:
 
-https://yourproject.streamlit.app
+https://endee-ai-project.streamlit.app/
 
 ## Project Overview
 
